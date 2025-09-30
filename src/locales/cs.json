@@ -1,0 +1,37 @@
+{
+  "common": {
+    "hideAll": "Skrýt vše",
+    "save": "Uložit",
+    "showAll": "Zobrazit vše",
+    "total": "celkem: {{count}} bodů"
+  },
+  "map": {
+    "addMarker": "Přidat nový bod",
+    "addMarkerHelp": "Klikněte kamkoliv na mapu pro předvyplnění souřadnic nebo je zadejte ručně",
+    "markersList": "Seznam bodů na mapě",
+    "noMarkersYet": "Zatím žádné body",
+    "noMarkersYetText": "Přidat body můžete pomocí formuláře",
+    "tooltip": {
+      "removeMarker": "Odebrat bod",
+      "hideMarker": "Skrýt bod",
+      "showMarker": "Zobrazit bod"
+    }
+  },
+  "markerForm": {
+    "label": "Popisek",
+    "latitude": "Zeměpisná šířka",
+    "longitude": "Zeměpisná délka",
+    "placeholder": {
+      "label": "např. Praha"
+    },
+    "validation": {
+      "labelRequired": "Zadejte popisek bodu",
+      "latRequired": "Zadejte zeměpisnou šířku",
+      "latInvalid": "Zeměpisná šířka musí být číslo",
+      "latRange": "Zeměpisná šířka musí být v rozsahu -90 až 90",
+      "lngRequired": "Zadejte zeměpisnou délku",
+      "lngInvalid": "Zeměpisná délka musí být číslo",
+      "lngRange": "Zeměpisná délka musí být v rozsahu -180 až 180"
+    }
+  }
+}
